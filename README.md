@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ksiv
+- 👋 Hi, I’m @ksiv ( he/him )
 - 👀 I’m interested in a job in some English Speaking Country to improove my English and taste another life-style
 - 🌱 I’m currently learning Java related frameworks
 - 📫 One could reach me using skype or mobile phone, the later would be fastest. My timezone atm is (GMT +3) 
