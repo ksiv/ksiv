@@ -1,4 +1,4 @@
-{ Test Automation }{ Java }{ JUnit }{ PHP }{ Selenium }{ API }
+**#Test Automation** **#Java** **#JUnit** **#PHP** **#Selenium** **#API** 
 - 👋 Hi, I’m @ksiv ( he/him )
 - 👀 I’m interested in a role in some English speaking team.
 - 🤝 I like projects that use and contribute to Open Source.
