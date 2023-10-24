@@ -1,5 +1,6 @@
 ![PHP](https://github.com/ksiv/ksiv/assets/6458864/74d40c6d-ebc3-4a40-89ab-c3b311a6a603)
 ![Java](https://github.com/ksiv/ksiv/raw/main/java.svg)
+![REST Assured](https://github.com/ksiv/ksiv/raw/main/rest-assured.svg)
 
 **#Test Automation** **#Java** **#JUnit** **#PHP** **#Selenium** **#API** 
 - 👋 Hi, I’m @ksiv ( he/him )
