@@ -8,7 +8,7 @@
 - 👀 I’m interested in a role in some English/Russian speaking team.
 - 🤝 I like projects that use and contribute to Open Source.
 - 🌱 Java is the language of the most recent projects I was involved in, the next most recent would be PHP followed by less recet experience with Linux Shell, VBS, VBA, JS, FoxPro, Ruby 
-- 💼 my knowledge package is 10+ years of SQA in wide range of products including: system driver, network protocol, win applications, mobile applications, web services all-round testing (UI/API/DB). Apart from SQA activities I have several years of previous IT experience.
+- 💼 my knowledge package is 20+ years of Software Quality in wide range of products including: system driver, network protocol, win applications, mobile applications, web services all-round testing (UI/API/DB). Apart from SQA activities I have several years of previous IT experience.
 - ✉️ ...
 - :compass:	 My current timezone is GMT+3
 
